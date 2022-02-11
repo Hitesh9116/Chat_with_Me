@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139570460813",
+    "firebase_url": "https://chat-cddd8-default-rtdb.firebaseio.com",
+    "project_id": "chat-cddd8",
+    "storage_bucket": "chat-cddd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139570460813:android:fd2659ce5517eb767d4ac4",
+        "android_client_info": {
+          "package_name": "com.example.ChatWithMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139570460813-69mtmr6h8lek8225cn6tu32rbf9e7obj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ChatWithMe",
+            "certificate_hash": "a2541c070fb5a82b624243d8c2bd5e4dab7947c9"
+          }
+        },
+        {
+          "client_id": "139570460813-j54n610n4ut70fk7sl22ctl26uhksfgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-4QrPMPRpN8hCZSES2Dl3KwA5edJK-7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139570460813-j54n610n4ut70fk7sl22ctl26uhksfgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
